@@ -1,3 +1,4 @@
+API_KEY = "1234567890SECRET"  # Hard-coded API key
 from flask import Flask, request
 app = Flask(__name__)
 

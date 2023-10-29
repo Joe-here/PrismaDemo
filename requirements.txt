@@ -1,2 +1,4 @@
 Flask==1.1.1  # Intentionally using an older version which might have vulnerabilities
+Flask-JWT==0.3.2  # An older version that might have vulnerabilities
+
 
